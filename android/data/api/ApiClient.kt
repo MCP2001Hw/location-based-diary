@@ -17,7 +17,7 @@ import java.net.URL
  */
 object ApiClient {
 
-    private const val BASE_URL = "https://lbs-api-server.onrender.com"
+    private const val BASE_URL = "placeholder"
     private const val TAG = "ApiClient"
 
     // ── Auth ───────────────────────────────────────────────────────────────
