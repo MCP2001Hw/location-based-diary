@@ -1,6 +1,6 @@
 # Location-Based Diary
 
-Final year dissertation project — Heriot-Watt University BSc Computer Science (2025–26).  
+Final year dissertation project — Heriot-Watt University BSc Computer Science.
 Supervised by Dr. Phil Bartie.
 
 A full-stack Android application that triggers task reminders when the user is physically near a relevant place at the right time. Rather than reminding you at a fixed time, the app reminds you *when and where it makes sense* — walk past a pharmacy and get reminded to pick up your prescription.
